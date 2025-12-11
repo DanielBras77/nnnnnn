@@ -79,34 +79,21 @@ flutter run
 ## 🗂️ Estrutura da Base de Dados (Notion)
 
 Para a aplicação funcionar corretamente, é necessário criar duas bases de dados no Notion com as seguintes propriedades exatas (case-sensitive):
+Formato: Propriedade - Tipo
 
 **Base de Dados: Clientes**
-
-| Propriedade | Tipo |
-
-| **Name** | Title |
-
-| **Mail** | Email |
-
-| **Phone** | Phone number |
-
+ **Name** - Title
+ **Mail** - Email
+ **Phone** - Phone number
+ 
 **Base de Dados: Vídeos**
-
-| Propriedade | Tipo |
-
-| **Name** | Title |
-
-| **Number** | Number (Auto-increment ID) |
-
-| **Status** | Select (Opções: *Por gravar, Por Editar, Editado, Revisto, Publicado*) |
-
-| **Client** | Relation (Ligado à base de Clientes) |
-
-| **PublishDate** | Date |
-
-| **RawLink** | URL |
-
-| **EditedLink** | URL |
+ **Name** - Title
+ **Number** - Number (Auto-increment ID)
+ **Status** - Select (Opções: *Por gravar, Por Editar, Editado, Revisto, Publicado*)
+ **Client** - Relation (Ligado à base de Clientes)
+ **PublishDate** - Date
+ **RawLink** - URL
+ **EditedLink** - URL
 
 ## 📝 Autor
 
