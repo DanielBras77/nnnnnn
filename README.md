@@ -41,7 +41,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ```
 # Clonar o repositório
-git clone [https://github.com/teu-usuario/inframe.git](https://github.com/teu-user/inframe.git)
+git clone [https://github.com/[utilizador]/inframe.git](https://github.com/[utilizador]/inframe.git)
 
 # Entrar na pasta
 cd inframe
