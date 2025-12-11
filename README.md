@@ -82,17 +82,28 @@ Para a aplicação funcionar corretamente, é necessário criar duas bases de da
 Formato: Propriedade - Tipo
 
 **Base de Dados: Clientes**
+
+
  **Name** - Title
+ 
  **Mail** - Email
+ 
  **Phone** - Phone number
  
 **Base de Dados: Vídeos**
+
  **Name** - Title
+ 
  **Number** - Number (Auto-increment ID)
+ 
  **Status** - Select (Opções: *Por gravar, Por Editar, Editado, Revisto, Publicado*)
+ 
  **Client** - Relation (Ligado à base de Clientes)
+ 
  **PublishDate** - Date
+ 
  **RawLink** - URL
+ 
  **EditedLink** - URL
 
 ## 📝 Autor
