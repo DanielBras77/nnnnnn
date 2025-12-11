@@ -15,7 +15,7 @@ A aplicação funciona como um painel de controlo centralizado para produtores/e
 ### 2. Assistente de Produção AI 🤖
 
 - **Integração com Google Gemini (2.5 Flash):** Um assistente integrado que analisa a base de dados do Notion.
-- **Resumos Semanais:** Gera mensagens automáticas sobre entregas próximas e prazos críticos.
+- **Resumos Semanais:** Gera mensagens automáticas sobre entregas nos próximos 7 dias.
 - **Chat Contextual:** O utilizador pode fazer perguntas em linguagem natural (ex: *"Quem é o cliente do vídeo de receitas de francesinha?"*) e a IA responde com base nos dados reais do projeto.
 
 ## Arquitetura e Tecnologias
