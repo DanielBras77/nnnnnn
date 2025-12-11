@@ -81,7 +81,7 @@ flutter run
 Para a aplicação funcionar corretamente, é necessário criar duas bases de dados no Notion com as seguintes propriedades exatas (case-sensitive):
 Formato: Propriedade - Tipo
 
-**Base de Dados: Clientes**
+**--Base de Dados: Clientes**
 
 
  **Name** - Title
@@ -90,7 +90,7 @@ Formato: Propriedade - Tipo
  
  **Phone** - Phone number
  
-**Base de Dados: Vídeos**
+**--Base de Dados: Vídeos**
 
  **Name** - Title
  
